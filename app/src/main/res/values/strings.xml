@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyGlamm</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+</resources>
